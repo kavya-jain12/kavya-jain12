@@ -1,4 +1,4 @@
-👋 Hi, I’m Kavya
+👋 Hi, I’m Kavya Vimal Kumar
 
 👀 I’m interested in developing frontend applications
 
