@@ -23,7 +23,7 @@
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?logo=visualstudiocode&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavya-jain12&layout=compact)](https://github.com/kavya-jain12/github-readme-stats)
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavya-jain12&layout=compact)](https://github.com/kavya-jain12/github-readme-stats) --->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kavya-jain12&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
