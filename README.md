@@ -23,12 +23,16 @@
 ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-0078d7?logo=visualstudiocode&logoColor=white)
 
 
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavya-jain12&layout=compact)](https://github.com/kavya-jain12/github-readme-stats) --->
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kavya-jain12&hide=scss,html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kavya-jain12&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-<!--- ![Kavya's github stats](https://github-readme-stats.vercel.app/api?username=kavya-jain12) --->
+<!---
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavya-jain12"/>
+ [![Kavya's github stats](https://github-readme-stats.vercel.app/api?username=kavya-jain12)](https://github.com/kavya-jain12/github-readme-stats) --->
 
 <!---
 kavya-jain12/kavya-jain12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
